@@ -9,7 +9,7 @@ from bank import *
 
 st.set_page_config(
     page_title="Smart Banking System",
-    page_icon="🏦",
+    page_icon="",
     layout="wide"
 )
 
@@ -26,7 +26,7 @@ accounts = st.session_state.accounts
 # Title
 # ==========================================
 
-st.title("Vedasree's🏦 Smart Banking Management System")
+st.title("Vedasree's Smart Banking Management System")
 
 st.write(
     "Manage customer accounts using a simple Streamlit application."
