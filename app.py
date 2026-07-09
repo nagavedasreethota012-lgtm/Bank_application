@@ -9,7 +9,7 @@ from bank import *
 
 st.set_page_config(
     page_title="Smart Banking System",
-    page_icon="",
+    page_icon="🏦",
     layout="wide"
 )
 
